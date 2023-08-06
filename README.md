@@ -38,22 +38,14 @@ The Mom's Kitchen website is designed to be a user-friendly and visually appeali
     - **Kitchen Tips:** Offer valuable cooking tips, tricks, and hacks that users can benefit from in their own kitchens.
     
 2. **Images and Media:**
-
-    - Replace `<insert img here>` placeholders with actual image URLs or paths throughout the website.
     
     - Optimize images for web use to ensure fast loading times without compromising quality.
     
-3. **Newsletter Subscription:**
+3. **Shop Section:**
 
-    - Integrate a subscription form in the Newsletter section to collect user names and email addresses for the newsletter.
+    - Curated recommendations for pantry staples and kitchen appliances that align with the website's theme and purpose.
     
-    - Use a server-side script to process form submissions and store user data securely.
-    
-4. **Shop Section:**
-
-    - Curate recommendations for pantry staples and kitchen appliances that align with the website's theme and purpose.
-    
-    - Include images, product names, descriptions, and affiliate links if applicable.
+    - Included images, product names, descriptions, and affiliate links if applicable.
     
 5. **Social Media Links:**
 
